@@ -1,5 +1,5 @@
-int hour = 15;
-int minute = 53;
+int hour = 12;
+int minute = 01;
 int CA_1 = 12;
 int CA_2 = 11;
 int CA_3 = 10;
