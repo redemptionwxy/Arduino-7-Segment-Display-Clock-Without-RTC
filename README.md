@@ -1,6 +1,8 @@
 # Arduino-7-Segment-Display-Clock-Without-RTC
 Arduino 7 Segment Display Clock Without RTC Module
 
+Change the hour and minute to real time in the code and uplaod the code into the board.
+
 **Circuit:**
 
 
